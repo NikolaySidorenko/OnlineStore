@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore.Web.API", "OnlineStore.Web.API\OnlineStore.Web.API.csproj", "{C6DC5139-9E7C-40F5-AE4B-15790363B5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore.Data.Providers", "OnlineStore.Data.Providers\OnlineStore.Data.Providers\OnlineStore.Data.Providers.csproj", "{6A1F8B3F-853B-4DC4-B506-1768198314E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DC5139-9E7C-40F5-AE4B-15790363B5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DC5139-9E7C-40F5-AE4B-15790363B5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DC5139-9E7C-40F5-AE4B-15790363B5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DC5139-9E7C-40F5-AE4B-15790363B5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1F8B3F-853B-4DC4-B506-1768198314E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1F8B3F-853B-4DC4-B506-1768198314E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1F8B3F-853B-4DC4-B506-1768198314E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1F8B3F-853B-4DC4-B506-1768198314E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B9DD4F-D064-4FA5-B655-FF83CE79D81E}
+	EndGlobalSection
+EndGlobal
